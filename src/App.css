@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .App-logo {
@@ -10,7 +11,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* height: 5rem; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -30,4 +31,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Custom CSS starts */
+.grid{
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
 }

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "000001",
+    "name": "Ice Cream Social",
+    "studentCount": "0",
+    "date": "27 March 2019",
+    "tags": ["general"]
+  },{
+    "id": "000002",
+    "name": "Spring Social",
+    "studentCount": "0",
+    "date": "21 March 2019",
+    "tags": ["general","entertainment"]
+  }
+]
